@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace DemoMVC.Models
 {
@@ -10,6 +12,8 @@ namespace DemoMVC.Models
     {
         [Key]
         public int Id { get; set; }
+        [Required (ErrorMessage ="Title is required.")]
+        [MaxLength(15)]
         public string Title { get; set; }
 
         [DataType(DataType.Date)]
