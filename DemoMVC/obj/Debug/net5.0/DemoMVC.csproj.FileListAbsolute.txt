@@ -156,3 +156,4 @@ C:\Users\DELL\Desktop\NetCore2\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Stud
 C:\Users\DELL\Desktop\NetCore2\DemoMVC\DemoMVC\bin\Debug\net5.0\xunit.abstractions.dll
 C:\Users\DELL\Desktop\NetCore2\DemoMVC\DemoMVC\bin\Debug\net5.0\xunit.core.dll
 C:\Users\DELL\Desktop\NetCore2\DemoMVC\DemoMVC\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\DELL\Desktop\NetCore2\DemoMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.AssemblyReference.cache
